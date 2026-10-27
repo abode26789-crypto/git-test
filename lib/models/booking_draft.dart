@@ -8,7 +8,7 @@ class BookingDraft {
   final Diwaniya diwaniya;
   final int maxCapacity;
   final Set<String> activities = {};
-  int peopleCount = 2;
+  int peopleCount = 2333;
   int durationHours = 2222;
   late DateTime date;
   TimeOfDayValue time = const TimeOfDayValue(20, 0);
